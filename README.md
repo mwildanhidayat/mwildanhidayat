@@ -6,9 +6,9 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=WildanHidayat&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/mwildanhidayat)
-[![GitHub followers](https://img.shields.io/github/followers/WildanHidayat?label=Followers&style=for-the-badge&color=a78bfa&labelColor=0d1117)](https://github.com/mwildanhidayat)
-[![GitHub stars](https://img.shields.io/github/stars/WildanHidayat?label=Stars&style=for-the-badge&color=00d4ff&labelColor=0d1117)](https://github.com/mwildanhidayat)
+[![Profile Views](https://komarev.com/ghpvc/?username=mwildanhidayat&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/mmwildanhidayat)
+[![GitHub followers](https://img.shields.io/github/followers/mwildanhidayat?label=Followers&style=for-the-badge&color=a78bfa&labelColor=0d1117)](https://github.com/mmwildanhidayat)
+[![GitHub stars](https://img.shields.io/github/stars/mwildanhidayat?label=Stars&style=for-the-badge&color=00d4ff&labelColor=0d1117)](https://github.com/mmwildanhidayat)
 
 </div>
 
@@ -19,7 +19,7 @@
 ## 🧬 About Me
 
 ```yaml
-name:       Wildan Hidayat
+name:       M Wildan Hidayat
 location:   Indonesia 🇮🇩
 role:       Backend Engineer & Automation Developer
 specialty:  Bot Systems · Private Server · Cloud Infra
@@ -101,14 +101,14 @@ status:     Open to collaboration
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WildanHidayat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=a78bfa&text_color=c9d1d9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WildanHidayat&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mwildanhidayat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=a78bfa&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwildanhidayat&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=WildanHidayat&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d4ff&ring=a78bfa&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=a78bfa&dates=c9d1d9)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mwildanhidayat&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d4ff&ring=a78bfa&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=a78bfa&dates=c9d1d9)](https://git.io/streak-stats)
 
 </div>
 
@@ -118,7 +118,7 @@ status:     Open to collaboration
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=WildanHidayat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mwildanhidayat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -128,7 +128,7 @@ status:     Open to collaboration
 
 <div align="center">
 
-[![Wildan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WildanHidayat&theme=tokyo-night&bg_color=0d1117&color=00d4ff&line=a78bfa&point=ff6b6b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Wildan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mwildanhidayat&theme=tokyo-night&bg_color=0d1117&color=00d4ff&line=a78bfa&point=ff6b6b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
