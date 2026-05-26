@@ -7,8 +7,8 @@
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=WildanHidayat&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/mwildanhidayat)
-[![GitHub followers](https://img.shields.io/github/followers/WildanHidayat?label=Followers&style=for-the-badge&color=a78bfa&labelColor=0d1117)](https://github.com/WildanHidayat)
-[![GitHub stars](https://img.shields.io/github/stars/WildanHidayat?label=Stars&style=for-the-badge&color=00d4ff&labelColor=0d1117)](https://github.com/WildanHidayat)
+[![GitHub followers](https://img.shields.io/github/followers/WildanHidayat?label=Followers&style=for-the-badge&color=a78bfa&labelColor=0d1117)](https://github.com/mwildanhidayat)
+[![GitHub stars](https://img.shields.io/github/stars/WildanHidayat?label=Stars&style=for-the-badge&color=00d4ff&labelColor=0d1117)](https://github.com/mwildanhidayat)
 
 </div>
 
