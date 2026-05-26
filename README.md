@@ -101,7 +101,7 @@ status:     Open to collaboration
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mwildanhidayat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=a78bfa&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats-cyan-nine.vercel.app/api?username=mwildanhidayat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=a78bfa&text_color=c9d1d9" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwildanhidayat&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" />
 
 </div>
